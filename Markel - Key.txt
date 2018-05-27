@@ -1,0 +1,7 @@
+Hi duniansampa!
+Here's your personal Marvel Comics API information:
+Your public key
+ae2b03ac3c05b512ac3075a0da380d54
+Your private key
+1a7626fea28dce0268fbfa14cc01f27366c549b1
+Read more about how to use your keys to sign requests.

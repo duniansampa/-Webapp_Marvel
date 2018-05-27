@@ -1,0 +1,29 @@
+{
+  "name": "webapp_marvel",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://duniansampa.github.io/webapp_marvel",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "marvel-api": "^1.1.0",
+    "react": "^16.3.1",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.1",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "redux": "^3.7.2",
+    "styled-components": "^3.2.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "redux-devtools": "^3.4.1"
+  }
+}
